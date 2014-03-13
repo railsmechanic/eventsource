@@ -2,6 +2,8 @@
 EventSource is a powerful package for quickly setting up an EventSource server in Golang.
 It can be used wherever you need to publish events/notifications.
 
+[See godoc here.](http://godoc.org/github.com/railsmechanic/eventsource)
+
 ## Features
 
 - Support for isolated channels *(channel1 will not see events of channel2)*

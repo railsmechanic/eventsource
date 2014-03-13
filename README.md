@@ -4,7 +4,7 @@ It can be used wherever you need to publish events/notifications.
 
 ## Features
 
-- Support for multiple, isolated channels *(channel1 will not see events of channel2)*
+- Support for isolated channels *(channel1 will not see events of channel2)*
 - Support for global notifications across all channels *(every consumer receive this event)*
 - RESTful interface for publishing events, deleting, subscribing and getting information of/to channels
 - Token base authentication for publishing/deleting/getting information of channels

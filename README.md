@@ -178,4 +178,4 @@ Therefore it's quite possible that not all of the W3C standards are met. You hav
 
 ## Special thanks to
 This package is based on some concepts of [antage/eventsource](https://github.com/antage/eventsource).
-Many thanks and thumbs up, you've done a great job...
+Many thanks and thumbs up, you've done a great job.

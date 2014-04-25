@@ -45,7 +45,11 @@ To test the new EventSource server, just use **curl** and subscribe to a channel
 $ curl http://localhost:8080/updates
 ~~~
 You've successfully joined the channel `updates` and you're ready to receive incoming events.
+
 The channel name `updates` is not fixed, you can use your own name.
+~~~bash
+$ curl http://localhost:8080/[myname]
+~~~
 
 
 #### Publish events

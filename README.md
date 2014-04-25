@@ -48,7 +48,7 @@ You've successfully joined the channel `updates` and you're ready to receive inc
 
 The channel name `updates` is not fixed, you can use your own name.
 ~~~bash
-$ curl http://localhost:8080/[myname]
+$ curl http://localhost:8080/[mychannel]
 ~~~
 
 
